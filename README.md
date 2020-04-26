@@ -6,6 +6,8 @@
 A bare-bones user avatar display with support for falling back to using the user's initials on a colored background as the avatar.
 Based on the great library for React: https://github.com/wbinnssmith/react-user-avatar, and ported to React Native.
 
+This is a fork of original library https://github.com/avishayil/react-native-user-avatar by [Avishay Bar](https://github.com/avishayil) made to retain custom component support.
+
 ![](http://i.imgur.com/LJjK9cl.png)
 
 ## Installation
