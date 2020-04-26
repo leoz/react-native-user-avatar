@@ -1,9 +1,12 @@
 {
   "name": "react-native-user-avatar-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Native component for a user avatar with fallback to colored initials",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "react-native",
     "react-native-component",
