@@ -24,7 +24,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import UserAvatar from 'react-native-user-avatar';
+import UserAvatar from 'react-native-user-avatar-component';
 
 const App: () => React$Node = () => {
   return (
